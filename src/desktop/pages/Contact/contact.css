@@ -1,0 +1,41 @@
+.contacts_bar {
+    background-color: rgb(67, 143, 242) !important;
+    height: 50px;
+    color: aliceblue !important;
+
+
+}
+
+.contacts_text {
+    font-weight: bolder !important;
+    font-size: larger !important;
+    padding-top: 10px;
+
+}
+
+.link {
+    text-decoration: none;
+}
+
+.button {
+    font-weight: bolder !important;
+    position: absolute;
+    float: right;
+    bottom: 27px;
+    right: 5px;
+}
+
+.profile_avatar {
+    height: 150px !important;
+    width: 150px !important;
+}
+
+.badge {
+    margin: 20px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@600&family=Montserrat&family=Noto+Sans+KR:wght@500&family=Raleway:ital,wght@0,500;0,600;1,500&family=Varela+Round&display=swap');
+
+.contact_name {
+    font-family: 'Raleway';
+}

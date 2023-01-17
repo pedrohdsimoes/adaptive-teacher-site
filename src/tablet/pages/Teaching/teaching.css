@@ -1,0 +1,22 @@
+.music {
+    position: absolute;
+    bottom: 0;
+    width: auto;
+    max-width: 100%;
+
+}
+
+.t_ios_button {
+    color: white;
+    float: left;
+    bottom: 5px !important;
+    left: 5px;
+}
+
+.t_bar {
+    background-color: rgb(38, 38, 38) !important;
+    height: 50px;
+    color: aliceblue !important;
+
+
+}

@@ -1,0 +1,86 @@
+.music {
+    position: absolute;
+    bottom: 0;
+    width: auto;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@600&family=Montserrat&family=Noto+Sans+KR:wght@500&family=Raleway:ital,wght@0,500;0,600;1,500&family=Varela+Round&display=swap');
+
+.background_page {
+    background-color: rgb(38, 38, 38) !important;
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.t_ios_button {
+    color: white !important;
+    float: left;
+    bottom: 27px;
+    left: 5px;
+}
+
+.t_bar {
+    background-color: rgb(38, 38, 38) !important;
+    height: 50px;
+    color: aliceblue !important;
+}
+
+.spotify_icon {
+    float: left;
+    margin: 8px;
+    margin-left: 20px;
+    color: green;
+    height: 30px;
+    width: 30px;
+}
+
+.teaching_text {
+    font-family: "Varela Round" !important;
+    font-weight: bolder !important;
+    font-size: larger !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin-top: 18px !important;
+    display: block;
+}
+
+.grid {
+    margin: auto !important;
+}
+
+.playlist_text {
+    font-family: "Varela Round" !important;
+
+    font-weight: bolder !important;
+    font-size: larger !important;
+    color: aliceblue;
+    width: 130px;
+    margin: 10px !important;
+}
+
+.player {
+    background-color: rgb(27, 26, 26) !important;
+    height: 70px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    color: aliceblue !important;
+
+}
+
+.play_buttons {
+    align-items: center !important;
+    justify-content: center;
+    margin-bottom: 18px;
+
+}
+
+.play_info {
+    display: flex;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: white !important;
+}

@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Google';
+    src: url('../../fonts/product_sans_bold.ttf');
+}
+
+.g_text {
+    font-family: 'Google' !important;
+    margin-top: 100px !important;
+}
+
+.red_letter {
+    color: rgb(235, 65, 50) !important;
+    font-size: 100px;
+}
+
+.blue_letter {
+    color: rgb(63, 135, 245) !important;
+    font-size: 100px;
+}
+
+.green_letter {
+    color: rgb(48, 169, 82) !important;
+    font-size: 100px;
+}
+
+.yellow_letter {
+    color: rgb(251, 190, 2) !important;
+    font-size: 100px;
+}
+
+.search {
+    margin: auto;
+    height: 35px;
+    width: 600px;
+    background-color: rgb(244, 244, 244) !important;
+
+}
+
+.search_sugest {
+    margin: auto;
+    height: 105px;
+    width: 600px;
+    background-color: rgb(244, 244, 244) !important;
+}
+
+.s_icon {
+    float: right;
+    margin: 5px;
+}
+
+.s_text {
+
+    float: left;
+    margin: 7px;
+    margin-right: 100px;
+}

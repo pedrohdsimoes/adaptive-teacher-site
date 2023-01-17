@@ -1,0 +1,48 @@
+.mac_buttons {
+    left: 20px !important;
+    top: 8px !important;
+    position: fixed !important;
+}
+
+.mac_bar {
+    background-color: rgb(45, 45, 45) !important;
+    height: 30px !important;
+    position: sticky !important;
+    top: 0px !important;
+    left: 0px !important;
+    width: 100%;
+    z-index: 500;
+}
+
+.close {
+    background-color: rgb(210, 48, 48) !important;
+    height: 13px !important;
+    width: 13px !important;
+}
+
+.min {
+    background-color: rgb(229, 208, 20) !important;
+    height: 13px !important;
+    width: 13px !important;
+}
+
+.fs {
+    background-color: rgb(11, 147, 11) !important;
+    height: 13px !important;
+    width: 13px !important;
+}
+
+.mac_icons {
+    color: rgba(45, 45, 45, 0.669) !important;
+    height: 10px !important;
+    width: 10px !important;
+
+}
+
+.chrome-tabs {
+    position: sticky !important;
+    top: 30px !important;
+    left: 0px !important;
+    width: 100%;
+    z-index: 500;
+}

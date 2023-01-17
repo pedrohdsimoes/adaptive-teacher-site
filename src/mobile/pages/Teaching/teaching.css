@@ -1,0 +1,24 @@
+.teaching_body {}
+
+.music {
+    position: absolute;
+    bottom: 0;
+    width: auto;
+    max-width: 100%;
+
+}
+
+.ios_button {
+    color: white !important;
+    float: left;
+    bottom: 27px !important;
+    left: 5px;
+}
+
+.t_bar {
+    background-color: rgb(38, 38, 38) !important;
+    height: 50px;
+    color: aliceblue !important;
+
+
+}

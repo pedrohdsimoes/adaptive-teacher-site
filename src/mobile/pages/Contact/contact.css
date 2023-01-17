@@ -1,0 +1,26 @@
+.contacts_bar {
+    background-color: rgb(67, 143, 242) !important;
+    height: 50px;
+    color: aliceblue !important;
+
+
+}
+
+.contacts_text {
+    font-weight: bolder !important;
+    font-size: larger !important;
+    padding-top: 10px;
+
+}
+
+.link {
+    text-decoration: none;
+}
+
+.m_button {
+    font-weight: bolder !important;
+    position: absolute;
+    float: right;
+    top: -30px;
+    right: 5px;
+}
