@@ -1,3 +1,7 @@
+# Project Demo
+
+Project link: [Adaptive Teacher Website](http://tinyurl.com/adaptiveTeacherWebsite).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
