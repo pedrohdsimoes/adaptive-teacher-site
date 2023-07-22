@@ -1,6 +1,6 @@
 # Project Demo
 
-Project link: [Adaptive Teacher Website](http://tinyurl.com/adaptiveTeacherWebsite).
+Project link: [Adaptive Teacher Website](https://graceful-pegasus-de0d22.netlify.app/).
 
 # Getting Started with Create React App
 
